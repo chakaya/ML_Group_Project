@@ -1,7 +1,7 @@
 # ML_Group_Project
 Message Spam Detection using Machine Learning (Tensorflow)
 
-This project/program will be alble to detect whether a message is Spam or not spam
+This project/program will be albe to detect whether a message is Spam or not spam
 
 The messages can either be Spam mail or Ham which stands for not spam
 
