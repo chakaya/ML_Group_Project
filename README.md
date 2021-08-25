@@ -1,5 +1,5 @@
 # ML_Group_Project
-Email Spam Detection using Machine Learning (Tensorflow)
+Message Spam Detection using Machine Learning (Tensorflow)
 
 This project/program will be alble to detect whether a message is Spam or not spam
 
